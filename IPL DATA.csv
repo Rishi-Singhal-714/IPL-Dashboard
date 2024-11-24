@@ -1,0 +1,263 @@
+Date,Match_Id,Match_No,State,Status,Team1_TeamId,Team1_TeamName,Team2_TeamId,Team2_TeamName,Ground,City,Team1_Score_InningsId,Team1_Score,Team1_Score_Wickets,Team1_Score_Overs,Team2_Score_InningsId,Team2_Score,Team2_Score_Wickets,Team2_Score_Overs,Index
+22-03-2024,89654,1st Match,complete,Chennai Super Kings won by 6 wkts,58,CHENNAI SUPER KINGS,59,ROYAL CHALLENGERS BENGALURU,MA Chidambaram Stadium,Chennai,2,176,4,18.4,1,173,6,20,1
+23-03-2024,89661,2nd Match,complete,Punjab Kings won by 4 wkts,65,PUNJAB KINGS,61,DELHI CAPITALS,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Chandigarh,2,177,6,19.2,1,174,9,20,2
+23-03-2024,89665,3rd Match,complete,Kolkata Knight Riders won by 4 runs,63,KOLKATA KNIGHT RIDERS,255,SUNRISERS HYDERABAD,Eden Gardens,Kolkata,1,208,7,20,2,204,7,20,3
+24-03-2024,89668,4th Match,complete,Rajasthan Royals won by 20 runs,64,RAJASTHAN ROYALS,966,LUCKNOW SUPER GIANTS,Sawai Mansingh Stadium,Jaipur,1,193,4,20,2,173,6,20,4
+24-03-2024,89675,5th Match,complete,Gujarat Titans won by 6 runs,971,GUJARAT TITANS,62,MUMBAI INDIANS,Narendra Modi Stadium,Ahmedabad,1,168,6,20,2,162,9,20,5
+25-03-2024,89682,6th Match,complete,Royal Challengers Bengaluru won by 4 wkts,59,ROYAL CHALLENGERS BENGALURU,65,PUNJAB KINGS,M.Chinnaswamy Stadium,Bengaluru,2,178,6,19.2,1,176,6,20,6
+26-03-2024,89689,7th Match,complete,Chennai Super Kings won by 63 runs,58,CHENNAI SUPER KINGS,971,GUJARAT TITANS,MA Chidambaram Stadium,Chennai,1,206,6,20,2,143,8,20,7
+27-03-2024,89693,8th Match,complete,Sunrisers Hyderabad won by 31 runs,255,SUNRISERS HYDERABAD,62,MUMBAI INDIANS,Rajiv Gandhi International Stadium,Hyderabad,1,277,3,20,2,246,5,20,8
+28-03-2024,89700,9th Match,complete,Rajasthan Royals won by 12 runs,64,RAJASTHAN ROYALS,61,DELHI CAPITALS,Sawai Mansingh Stadium,Jaipur,1,185,5,20,2,173,5,20,9
+29-03-2024,89703,10th Match,complete,Kolkata Knight Riders won by 7 wkts,59,ROYAL CHALLENGERS BENGALURU,63,KOLKATA KNIGHT RIDERS,M.Chinnaswamy Stadium,Bengaluru,1,182,6,20,2,186,3,16.5,10
+30-03-2024,89710,11th Match,complete,Lucknow Super Giants won by 21 runs,966,LUCKNOW SUPER GIANTS,65,PUNJAB KINGS,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,1,199,8,20,2,178,5,20,11
+31-03-2024,89717,12th Match,complete,Gujarat Titans won by 7 wkts,971,GUJARAT TITANS,255,SUNRISERS HYDERABAD,Narendra Modi Stadium,Ahmedabad,2,168,3,19.1,1,162,8,20,12
+31-03-2024,89724,13th Match,complete,Delhi Capitals won by 20 runs,61,DELHI CAPITALS,58,CHENNAI SUPER KINGS,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,1,191,5,20,2,171,6,20,13
+01-04-2024,89731,14th Match,complete,Rajasthan Royals won by 6 wkts,62,MUMBAI INDIANS,64,RAJASTHAN ROYALS,Wankhede Stadium,Mumbai,1,125,9,20,2,127,4,15.3,14
+02-04-2024,89738,15th Match,complete,Lucknow Super Giants won by 28 runs,59,ROYAL CHALLENGERS BENGALURU,966,LUCKNOW SUPER GIANTS,M.Chinnaswamy Stadium,Bengaluru,2,153,10,19.4,1,181,5,20,15
+03-04-2024,89745,16th Match,complete,Kolkata Knight Riders won by 106 runs,61,DELHI CAPITALS,63,KOLKATA KNIGHT RIDERS,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,2,166,10,17.2,1,272,7,20,16
+04-04-2024,89749,17th Match,complete,Punjab Kings won by 3 wkts,971,GUJARAT TITANS,65,PUNJAB KINGS,Narendra Modi Stadium,Ahmedabad,1,199,4,20,2,200,7,19.5,17
+05-04-2024,89752,18th Match,complete,Sunrisers Hyderabad won by 6 wkts,255,SUNRISERS HYDERABAD,58,CHENNAI SUPER KINGS,Rajiv Gandhi International Stadium,Hyderabad,2,166,4,18.1,1,165,5,20,18
+06-04-2024,89756,19th Match,complete,Rajasthan Royals won by 6 wkts,64,RAJASTHAN ROYALS,59,ROYAL CHALLENGERS BENGALURU,Sawai Mansingh Stadium,Jaipur,2,189,4,19.1,1,183,3,20,19
+07-04-2024,89763,20th Match,complete,Mumbai Indians won by 29 runs,62,MUMBAI INDIANS,61,DELHI CAPITALS,Wankhede Stadium,Mumbai,1,234,5,20,2,205,8,20,20
+07-04-2024,89770,21st Match,complete,Lucknow Super Giants won by 33 runs,966,LUCKNOW SUPER GIANTS,971,GUJARAT TITANS,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,1,163,5,20,2,130,10,18.5,21
+08-04-2024,91380,22nd Match,complete,Chennai Super Kings won by 7 wkts,58,CHENNAI SUPER KINGS,63,KOLKATA KNIGHT RIDERS,MA Chidambaram Stadium,Chennai,2,141,3,17.4,1,137,9,20,22
+09-04-2024,91389,23rd Match,complete,Sunrisers Hyderabad won by 2 runs,65,PUNJAB KINGS,255,SUNRISERS HYDERABAD,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Chandigarh,2,180,6,20,1,182,9,20,23
+10-04-2024,91393,24th Match,complete,Gujarat Titans won by 3 wkts,64,RAJASTHAN ROYALS,971,GUJARAT TITANS,Sawai Mansingh Stadium,Jaipur,1,196,3,20,2,199,7,20,24
+11-04-2024,91398,25th Match,complete,Mumbai Indians won by 7 wkts,62,MUMBAI INDIANS,59,ROYAL CHALLENGERS BENGALURU,Wankhede Stadium,Mumbai,2,199,3,15.3,1,196,8,20,25
+12-04-2024,91407,26th Match,complete,Delhi Capitals won by 6 wkts,966,LUCKNOW SUPER GIANTS,61,DELHI CAPITALS,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,1,167,7,20,2,170,4,18.1,26
+13-04-2024,91416,27th Match,complete,Rajasthan Royals won by 3 wkts,65,PUNJAB KINGS,64,RAJASTHAN ROYALS,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Chandigarh,1,147,8,20,2,152,7,19.5,27
+14-04-2024,91420,28th Match,complete,Kolkata Knight Riders won by 8 wkts,63,KOLKATA KNIGHT RIDERS,966,LUCKNOW SUPER GIANTS,Eden Gardens,Kolkata,2,162,2,15.4,1,161,7,20,28
+14-04-2024,91425,29th Match,complete,Chennai Super Kings won by 20 runs,62,MUMBAI INDIANS,58,CHENNAI SUPER KINGS,Wankhede Stadium,Mumbai,2,186,6,20,1,206,4,20,29
+15-04-2024,91434,30th Match,complete,Sunrisers Hyderabad won by 25 runs,59,ROYAL CHALLENGERS BENGALURU,255,SUNRISERS HYDERABAD,M.Chinnaswamy Stadium,Bengaluru,2,262,7,20,1,287,3,20,30
+16-04-2024,91443,31st Match,complete,Rajasthan Royals won by 2 wkts,63,KOLKATA KNIGHT RIDERS,64,RAJASTHAN ROYALS,Eden Gardens,Kolkata,1,223,6,20,2,224,8,20,31
+17-04-2024,91452,32nd Match,complete,Delhi Capitals won by 6 wkts,971,GUJARAT TITANS,61,DELHI CAPITALS,Narendra Modi Stadium,Ahmedabad,1,89,10,17.3,2,92,4,8.5,32
+18-04-2024,91461,33rd Match,complete,Mumbai Indians won by 9 runs,65,PUNJAB KINGS,62,MUMBAI INDIANS,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Chandigarh,2,183,10,19.1,1,192,7,20,33
+19-04-2024,91470,34th Match,complete,Lucknow Super Giants won by 8 wkts,966,LUCKNOW SUPER GIANTS,58,CHENNAI SUPER KINGS,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,2,180,2,19,1,176,6,20,34
+20-04-2024,91474,35th Match,complete,Sunrisers Hyderabad won by 67 runs,61,DELHI CAPITALS,255,SUNRISERS HYDERABAD,Arun Jaitley Stadium,Delhi,2,199,10,19.1,1,266,7,20,35
+21-04-2024,91479,36th Match,complete,Kolkata Knight Riders won by 1 run,63,KOLKATA KNIGHT RIDERS,59,ROYAL CHALLENGERS BENGALURU,Eden Gardens,Kolkata,1,222,6,20,2,221,10,20,36
+21-04-2024,91488,37th Match,complete,Gujarat Titans won by 3 wkts,65,PUNJAB KINGS,971,GUJARAT TITANS,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Chandigarh,1,142,10,20,2,146,7,19.1,37
+22-04-2024,91497,38th Match,complete,Rajasthan Royals won by 9 wkts,64,RAJASTHAN ROYALS,62,MUMBAI INDIANS,Sawai Mansingh Stadium,Jaipur,2,183,1,18.4,1,179,9,20,38
+23-04-2024,91506,39th Match,complete,Lucknow Super Giants won by 6 wkts,58,CHENNAI SUPER KINGS,966,LUCKNOW SUPER GIANTS,MA Chidambaram Stadium,Chennai,1,210,4,20,2,213,4,19.3,39
+24-04-2024,91515,40th Match,complete,Delhi Capitals won by 4 runs,61,DELHI CAPITALS,971,GUJARAT TITANS,Arun Jaitley Stadium,Delhi,1,224,4,20,2,220,8,20,40
+25-04-2024,91524,41st Match,complete,Royal Challengers Bengaluru won by 35 runs,255,SUNRISERS HYDERABAD,59,ROYAL CHALLENGERS BENGALURU,Rajiv Gandhi International Stadium,Hyderabad,2,171,8,20,1,206,7,20,41
+26-04-2024,91528,42nd Match,complete,Punjab Kings won by 8 wkts,63,KOLKATA KNIGHT RIDERS,65,PUNJAB KINGS,Eden Gardens,Kolkata,1,261,6,20,2,262,2,18.4,42
+27-04-2024,91533,43rd Match,complete,Delhi Capitals won by 10 runs,61,DELHI CAPITALS,62,MUMBAI INDIANS,Arun Jaitley Stadium,Delhi,1,257,4,20,2,247,9,20,43
+27-04-2024,91542,44th Match,complete,Rajasthan Royals won by 7 wkts,966,LUCKNOW SUPER GIANTS,64,RAJASTHAN ROYALS,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,1,196,5,20,2,199,3,19,44
+28-04-2024,91551,45th Match,complete,Royal Challengers Bengaluru won by 9 wkts,971,GUJARAT TITANS,59,ROYAL CHALLENGERS BENGALURU,Narendra Modi Stadium,Ahmedabad,1,200,3,20,2,206,1,16,45
+28-04-2024,91555,46th Match,complete,Chennai Super Kings won by 78 runs,58,CHENNAI SUPER KINGS,255,SUNRISERS HYDERABAD,MA Chidambaram Stadium,Chennai,1,212,3,20,2,134,10,18.5,46
+29-04-2024,91564,47th Match,complete,Kolkata Knight Riders won by 7 wkts,63,KOLKATA KNIGHT RIDERS,61,DELHI CAPITALS,Eden Gardens,Kolkata,2,157,3,16.3,1,153,9,20,47
+30-04-2024,91569,48th Match,complete,Lucknow Super Giants won by 4 wkts,966,LUCKNOW SUPER GIANTS,62,MUMBAI INDIANS,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,2,145,6,19.2,1,144,7,20,48
+01-05-2024,91578,49th Match,complete,Punjab Kings won by 7 wkts,58,CHENNAI SUPER KINGS,65,PUNJAB KINGS,MA Chidambaram Stadium,Chennai,1,162,7,20,2,163,3,17.5,49
+02-05-2024,91587,50th Match,complete,Sunrisers Hyderabad won by 1 run,255,SUNRISERS HYDERABAD,64,RAJASTHAN ROYALS,Rajiv Gandhi International Stadium,Hyderabad,1,201,3,20,2,200,7,20,50
+03-05-2024,91596,51st Match,complete,Kolkata Knight Riders won by 24 runs,62,MUMBAI INDIANS,63,KOLKATA KNIGHT RIDERS,Wankhede Stadium,Mumbai,2,145,10,18.5,1,169,10,19.5,51
+04-05-2024,91600,52nd Match,complete,Royal Challengers Bengaluru won by 4 wkts,59,ROYAL CHALLENGERS BENGALURU,971,GUJARAT TITANS,M.Chinnaswamy Stadium,Bengaluru,2,152,6,13.4,1,147,10,19.3,52
+05-05-2024,91609,53rd Match,complete,Chennai Super Kings won by 28 runs,65,PUNJAB KINGS,58,CHENNAI SUPER KINGS,Himachal Pradesh Cricket Association Stadium,Dharamsala,2,139,9,20,1,167,9,20,53
+05-05-2024,91618,54th Match,complete,Kolkata Knight Riders won by 98 runs,966,LUCKNOW SUPER GIANTS,63,KOLKATA KNIGHT RIDERS,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,2,137,10,16.1,1,235,6,20,54
+06-05-2024,91623,55th Match,complete,Mumbai Indians won by 7 wkts,62,MUMBAI INDIANS,255,SUNRISERS HYDERABAD,Wankhede Stadium,Mumbai,2,174,3,17.2,1,173,8,20,55
+07-05-2024,91632,56th Match,complete,Delhi Capitals won by 20 runs,61,DELHI CAPITALS,64,RAJASTHAN ROYALS,Arun Jaitley Stadium,Delhi,1,221,8,20,2,201,8,20,56
+08-05-2024,91641,57th Match,complete,Sunrisers Hyderabad won by 10 wkts,255,SUNRISERS HYDERABAD,966,LUCKNOW SUPER GIANTS,Rajiv Gandhi International Stadium,Hyderabad,2,167,0,9.4,1,165,4,20,57
+09-05-2024,91645,58th Match,complete,Royal Challengers Bengaluru won by 60 runs,65,PUNJAB KINGS,59,ROYAL CHALLENGERS BENGALURU,Himachal Pradesh Cricket Association Stadium,Dharamsala,2,181,10,17,1,241,7,20,58
+10-05-2024,91650,59th Match,complete,Gujarat Titans won by 35 runs,971,GUJARAT TITANS,58,CHENNAI SUPER KINGS,Narendra Modi Stadium,Ahmedabad,1,231,3,20,2,196,8,20,59
+11-05-2024,91654,60th Match,complete,Kolkata Knight Riders won by 18 runs - 16 overs game - due to rain,63,KOLKATA KNIGHT RIDERS,62,MUMBAI INDIANS,Eden Gardens,Kolkata,1,157,7,16,2,139,8,16,60
+12-05-2024,91663,61st Match,complete,Chennai Super Kings won by 5 wkts,58,CHENNAI SUPER KINGS,64,RAJASTHAN ROYALS,MA Chidambaram Stadium,Chennai,2,145,5,18.2,1,141,5,20,61
+12-05-2024,91668,62nd Match,complete,Royal Challengers Bengaluru won by 47 runs,59,ROYAL CHALLENGERS BENGALURU,61,DELHI CAPITALS,M.Chinnaswamy Stadium,Bengaluru,1,187,9,20,2,140,10,19.1,62
+13-05-2024,91677,63rd Match,Match abandoned without toss,Match abandoned without toss,971,GUJARAT TITANS,63,KOLKATA KNIGHT RIDERS,Narendra Modi Stadium,Ahmedabad,0,0,0,0,0,0,0,0,63
+14-05-2024,91681,64th Match,complete,Delhi Capitals won by 19 runs,61,DELHI CAPITALS,966,LUCKNOW SUPER GIANTS,Arun Jaitley Stadium,Delhi,1,208,4,20,2,189,9,20,64
+15-05-2024,91686,65th Match,complete,Punjab Kings won by 5 wkts,64,RAJASTHAN ROYALS,65,PUNJAB KINGS,Barsapara Cricket Stadium,Guwahati,1,144,9,20,2,145,5,18.5,65
+16-05-2024,91690,66th Match,Match abandoned without toss,Match abandoned without toss,255,SUNRISERS HYDERABAD,971,GUJARAT TITANS,Rajiv Gandhi International Stadium,Hyderabad,0,0,0,0,0,0,0,0,66
+17-05-2024,91699,67th Match,complete,Lucknow Super Giants won by 18 runs,62,MUMBAI INDIANS,966,LUCKNOW SUPER GIANTS,Wankhede Stadium,Mumbai,2,196,6,20,1,214,6,20,67
+18-05-2024,91704,68th Match,complete,Royal Challengers Bengaluru won by 27 runs,59,ROYAL CHALLENGERS BENGALURU,58,CHENNAI SUPER KINGS,M.Chinnaswamy Stadium,Bengaluru,1,218,5,20,2,191,7,20,68
+19-05-2024,91713,69th Match,complete,Sunrisers Hyderabad won by 4 wkts,255,SUNRISERS HYDERABAD,65,PUNJAB KINGS,Rajiv Gandhi International Stadium,Hyderabad,2,215,6,19.1,1,214,5,20,69
+19-05-2024,91717,70th Match,Match abandoned due to rain (with toss),Match abandoned due to rain (with toss),64,RAJASTHAN ROYALS,63,KOLKATA KNIGHT RIDERS,Barsapara Cricket Stadium,Guwahati,0,0,0,0,0,0,0,0,70
+21-05-2024,91722,Qualifier 1,complete,Kolkata Knight Riders won by 8 wkts,63,KOLKATA KNIGHT RIDERS,255,SUNRISERS HYDERABAD,Narendra Modi Stadium,Ahmedabad,2,164,2,13.4,1,159,10,19.3,71
+22-05-2024,91731,Eliminator,complete,Rajasthan Royals won by 4 wkts,64,RAJASTHAN ROYALS,59,ROYAL CHALLENGERS BENGALURU,Narendra Modi Stadium,Ahmedabad,2,174,6,19,1,172,8,20,72
+24-05-2024,91735,Qualifier 2,complete,Sunrisers Hyderabad won by 36 runs,255,SUNRISERS HYDERABAD,64,RAJASTHAN ROYALS,MA Chidambaram Stadium,Chennai,1,175,9,20,2,139,7,20,73
+26-05-2024,91740,Final,complete,Kolkata Knight Riders won by 8 wkts,63,KOLKATA KNIGHT RIDERS,255,SUNRISERS HYDERABAD,MA Chidambaram Stadium,Chennai,2,114,2,10.3,1,113,10,18.3,74
+Odean Smith,Bowling Allrounder,Right hand Bat,Right arm Fast medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/348100/348147.4.jpg",Gujarat Titans ,,,,,,,,,,,,,,
+Rahul Tewatia,Bowling Allrounder,Left hand Bat,Legbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/184200/184293.jpg",Gujarat Titans ,,,,,,,,,,,,,,
+Matthew Wade,Wicketkeeper Batter,Left hand Bat,Right arm Medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/263500/263523.1.jpg",Gujarat Titans ,,,,,,,,,,,,,,
+Jayant Yadav,Bowler,Right hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356700/356781.1.png",Gujarat Titans ,,,,,,,,,,,,,,
+Yash Dayal,Bowler,Right hand Bat,Left arm Medium fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357400/357416.2.jpg",Gujarat Titans ,,,,,,,,,,,,,,
+Kane Williamson,Top order Batter,Right hand Bat,DNB,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/303600/303652.png",Gujarat Titans ,,,,,,,,,,,,,,
+Nitish Rana,Middle order Batter,Left hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356700/356782.1.png",Kolkata Knight Riders,,,,,,,,,,,,,,
+Aarya Desai,Opening Batter,Left hand Bat,Right arm Offbreak,https://wassets.hscicdn.com/static/images/player-jersey.svg,Kolkata Knight Riders,,,,,,,,,,,,,,
+Vaibhav Arora,Bowler,Right hand Bat,Right arm Fast medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357000/357019.1.png",Kolkata Knight Riders,,,,,,,,,,,,,,
+Johnson Charles,Wicketkeeper Batter,Right hand Bat,DNB,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/144900/144991.1.jpg",Kolkata Knight Riders,,,,,,,,,,,,,,
+Lockie Ferguson,Bowler,Right hand Bat,Right arm Fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/303800/303800.png",Kolkata Knight Riders,,,,,,,,,,,,,,
+Harshit Rana,Bowler,Right hand Bat,Right arm Fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357000/357017.1.png",Kolkata Knight Riders,,,,,,,,,,,,,,
+Venkatesh Iyer,Allrounder,Left hand Bat,Right arm Medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/328700/328712.1.jpg",Kolkata Knight Riders,,,,,,,,,,,,,,
+Narayan Jagadeesan,Opening Batter,Right hand Bat,DNB,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/309100/309103.square.png",Kolkata Knight Riders,,,,,,,,,,,,,,
+Kulwant Khejroliya,Bowler,Left hand Bat,Left arm Medium fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357000/357018.1.png",Kolkata Knight Riders,,,,,,,,,,,,,,
+Mandeep Singh,Allrounder,Right hand Bat,Right arm Medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356800/356825.1.png",Kolkata Knight Riders,,,,,,,,,,,,,,
+Sunil Narine,Bowling Allrounder,Left hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/203300/203303.1.jpg",Kolkata Knight Riders,,,,,,,,,,,,,,
+Rahmanullah Gurbaz,Wicketkeeper Batter,Right hand Bat,DNB,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357000/357020.1.png",Kolkata Knight Riders,,,,,,,,,,,,,,
+Jason Roy,Opening Batter,Right hand Bat,DNB,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/303900/303963.jpg",Kolkata Knight Riders,,,,,,,,,,,,,,
+Anukul Roy,Allrounder,Left hand Bat,Slow Left arm Orthodox,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/338100/338166.4.jpg",Kolkata Knight Riders,,,,,,,,,,,,,,
+Andre Russell,Allrounder,Right hand Bat,Right arm Fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/308900/308972.png",Kolkata Knight Riders,,,,,,,,,,,,,,
+Rinku Singh,Middle order Batter,Left hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/338100/338171.4.jpg",Kolkata Knight Riders,,,,,,,,,,,,,,
+Tim Southee,Bowler,Right hand Bat,Right arm Medium fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/303600/303610.png",Kolkata Knight Riders,,,,,,,,,,,,,,
+Suyash Sharma,Bowler,Right hand Bat,Legbreak Googly,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357000/357016.1.png",Kolkata Knight Riders,,,,,,,,,,,,,,
+Shardul Thakur,Bowler,Right hand Bat,Right arm Medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/302300/302372.jpg",Kolkata Knight Riders,,,,,,,,,,,,,,
+Varun Chakravarthy,Bowler,Right hand Bat,Legbreak Googly,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/329300/329347.4.jpg",Kolkata Knight Riders,,,,,,,,,,,,,,
+David Wiese,Allrounder,Right hand Bat,Right arm Medium fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/312100/312185.png",Kolkata Knight Riders,,,,,,,,,,,,,,
+Umesh Yadav,Bowler,Right hand Bat,Right arm Fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/302300/302396.jpg",Kolkata Knight Riders,,,,,,,,,,,,,,
+Shreyas Iyer,Top order Batter,Right hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/309100/309198.1.jpg",Kolkata Knight Riders,,,,,,,,,,,,,,
+Litton Das,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/302900/302995.jpg",Kolkata Knight Riders,,,,,,,,,,,,,,
+Shakib Al Hasan,Allrounder,Left hand Bat,Slow Left arm Orthodox,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/303100/303157.jpg",Kolkata Knight Riders,,,,,,,,,,,,,,
+Krunal Pandya,Allrounder,Left hand Bat,Slow Left arm Orthodox,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/309000/309070.jpg",Lucknow Super Giants,,,,,,,,,,,,,,
+Avesh Khan,Bowler,Right hand Bat,Right arm Fast medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/200000/200065.1.jpg",Lucknow Super Giants,,,,,,,,,,,,,,
+Ayush Badoni,Batter,Right hand Bat,Right arm Offbreak,https://wassets.hscicdn.com/static/images/player-jersey.svg,Lucknow Super Giants,,,,,,,,,,,,,,
+Quinton de Kock,Wicketkeeper Batter,Left hand Bat,DNB,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317900/317947.jpg",Lucknow Super Giants,,,,,,,,,,,,,,
+Krishnappa Gowtham,Bowling Allrounder,Right hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356800/356850.1.png",Lucknow Super Giants,,,,,,,,,,,,,,
+Arpit Guleria,Bowler,Right hand Bat,Right arm Medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/315100/315165.jpg",Lucknow Super Giants,,,,,,,,,,,,,,
+Deepak Hooda,Allrounder,Right hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/343200/343251.4.jpg",Lucknow Super Giants,,,,,,,,,,,,,,
+Prerak Mankad,Allrounder,Right hand Bat,Right arm Medium,https://wassets.hscicdn.com/static/images/player-jersey.svg,Lucknow Super Giants,,,,,,,,,,,,,,
+Kyle Mayers,Batting Allrounder,Left hand Bat,Right arm Medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/316000/316081.png",Lucknow Super Giants,,,,,,,,,,,,,,
+Amit Mishra,Bowler,Right hand Bat,Legbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/304100/304193.png",Lucknow Super Giants,,,,,,,,,,,,,,
+Mohsin Khan,Bowler,Left hand Bat,Left arm Medium fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357400/357414.3.jpg",Lucknow Super Giants,,,,,,,,,,,,,,
+Naveen-ul-Haq,Bowler,Right hand Bat,Right arm Medium fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/303200/303285.jpg",Lucknow Super Giants,,,,,,,,,,,,,,
+Nicholas Pooran,Wicketkeeper Batter,Left hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/302200/302286.jpg",Lucknow Super Giants,,,,,,,,,,,,,,
+Ravi Bishnoi,Bowler,Right hand Bat,Legbreak Googly,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/335000/335051.4.jpg",Lucknow Super Giants,,,,,,,,,,,,,,
+Daniel Sams,Allrounder,Right hand Bat,Left arm Fast medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/309000/309061.png",Lucknow Super Giants,,,,,,,,,,,,,,
+Karan Sharma,Allrounder,Right hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357400/357412.3.jpg",Lucknow Super Giants,,,,,,,,,,,,,,
+Romario Shepherd,Bowling Allrounder,Right hand Bat,Right arm Fast medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/322000/322037.png",Lucknow Super Giants,,,,,,,,,,,,,,
+Marcus Stoinis,Batting Allrounder,Right hand Bat,Right arm Medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/309100/309100.jpg",Lucknow Super Giants,,,,,,,,,,,,,,
+Swapnil Singh,Bowler,Right hand Bat,Slow Left arm Orthodox,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357000/357025.1.png",Lucknow Super Giants,,,,,,,,,,,,,,
+Jaydev Unadkat,Bowler,Right hand Bat,Left arm Medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/302300/302392.jpg",Lucknow Super Giants,,,,,,,,,,,,,,
+Manan Vohra,Opening Batter,Right hand Bat,Right arm Medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356700/356788.1.png",Lucknow Super Giants,,,,,,,,,,,,,,
+Mark Wood,Bowler,Right hand Bat,Right arm Fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/303900/303977.jpg",Lucknow Super Giants,,,,,,,,,,,,,,
+Yash Thakur,Bowler,Right hand Bat,Right arm Fast medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356700/356790.1.png",Lucknow Super Giants,,,,,,,,,,,,,,
+Yudhvir Singh,Bowler,Right hand Bat,Right arm Medium fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/314700/314789.jpg",Lucknow Super Giants,,,,,,,,,,,,,,
+KL Rahul,Wicketkeeper Batter,Right hand Bat,DNB,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/304200/304207.png",Lucknow Super Giants,,,,,,,,,,,,,,
+Mayank Yadav,Bowler,Right hand Bat,Right arm Medium fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/358700/358724.4.jpg",Lucknow Super Giants,,,,,,,,,,,,,,
+Rohit Sharma,Top order Batter,Right hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/302300/302374.jpg",Mumbai Indians,,,,,,,,,,,,,,
+Arshad Khan,Bowler,Left hand Bat,Left arm Medium,https://wassets.hscicdn.com/static/images/player-jersey.svg,Mumbai Indians,,,,,,,,,,,,,,
+Jason Behrendorff,Bowler,Right hand Bat,Left arm Fast medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/289900/289948.jpg",Mumbai Indians,,,,,,,,,,,,,,
+Dewald Brevis,Batting Allrounder,Right hand Bat,Legbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/333900/333935.4.jpg",Mumbai Indians,,,,,,,,,,,,,,
+Piyush Chawla,Bowling Allrounder,Left hand Bat,Legbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/304200/304219.png",Mumbai Indians,,,,,,,,,,,,,,
+Tim David,Middle order Batter,Right hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/313600/313639.1.jpg",Mumbai Indians,,,,,,,,,,,,,,
+Raghav Goyal,Bowler,Left hand Bat,Left arm Wrist spin,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357600/357635.4.jpg",Mumbai Indians,,,,,,,,,,,,,,
+Cameron Green,Batting Allrounder,Right hand Bat,Right arm Fast medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/315600/315603.jpg",Mumbai Indians,,,,,,,,,,,,,,
+Ishan Kishan,Wicketkeeper Batter,Left hand Bat,DNB,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/329300/329345.4.jpg",Mumbai Indians,,,,,,,,,,,,,,
+Duan Jansen,Bowler,Right hand Bat,Left arm Fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357600/357638.3.jpg",Mumbai Indians,,,,,,,,,,,,,,
+Chris Jordan,Bowler,Right hand Bat,Right arm Fast medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/303900/303926.jpg",Mumbai Indians,,,,,,,,,,,,,,
+Kumar Kartikeya,Bowler,Right hand Bat,Slow Left arm Orthodox,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357600/357637.4.jpg",Mumbai Indians,,,,,,,,,,,,,,
+Akash Madhwal,Bowler,Right hand Bat,Right arm Medium fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/314900/314988.png",Mumbai Indians,,,,,,,,,,,,,,
+Riley Meredith,Bowler,Right hand Bat,Right arm Fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/313600/313637.1.jpg",Mumbai Indians,,,,,,,,,,,,,,
+Shams Mulani,Allrounder,Left hand Bat,Slow Left arm Orthodox,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357800/357845.1.png",Mumbai Indians,,,,,,,,,,,,,,
+Ramandeep Singh,Middle order Batter,Right hand Bat,Right arm Medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357800/357844.1.png",Mumbai Indians,,,,,,,,,,,,,,
+Sandeep Warrier,Bowler,Right hand Bat,Right arm Medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357400/357470.3.jpg",Mumbai Indians,,,,,,,,,,,,,,
+Hrithik Shokeen,Bowler,Right hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357600/357636.4.jpg",Mumbai Indians,,,,,,,,,,,,,,
+Tristan Stubbs,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/345900/345940.4.jpg",Mumbai Indians,,,,,,,,,,,,,,
+Arjun Tendulkar,Bowler,Left hand Bat,Left arm Medium fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357600/357633.4.jpg",Mumbai Indians,,,,,,,,,,,,,,
+Tilak Varma,Batting Allrounder,Left hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/314700/314790.jpg",Mumbai Indians,,,,,,,,,,,,,,
+Vishnu Vinod,Wicketkeeper Batter,Right hand Bat,DNB,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357600/357639.4.jpg",Mumbai Indians,,,,,,,,,,,,,,
+Nehal Wadhera,Top order Batter,Left hand Bat,Legbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357800/357843.1.png",Mumbai Indians,,,,,,,,,,,,,,
+Suryakumar Yadav,Batter,Right hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/329300/329343.4.jpg",Mumbai Indians,,,,,,,,,,,,,,
+Jofra Archer,Bowler,Right hand Bat,Right arm Fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/305000/305033.jpg",Mumbai Indians,,,,,,,,,,,,,,
+Jasprit Bumrah,Bowler,Right hand Bat,Right arm Fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356800/356849.1.png",Mumbai Indians,,,,,,,,,,,,,,
+Jhye Richardson,Bowler,Right hand Bat,Right arm Fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/218400/218405.1.jpg",Mumbai Indians,,,,,,,,,,,,,,
+Shikhar Dhawan,Opening Batter,Left hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/302300/302373.jpg",Punjab Kings,,,,,,,,,,,,,,
+Arshdeep Singh,Bowler,Left hand Bat,Left arm Medium fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356700/356795.1.png",Punjab Kings,,,,,,,,,,,,,,
+Baltej Singh,Bowler,Right hand Bat,Right arm Medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356700/356797.1.png",Punjab Kings,,,,,,,,,,,,,,
+Rahul Chahar,Bowler,Right hand Bat,Legbreak Googly,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/329300/329346.4.jpg",Punjab Kings,,,,,,,,,,,,,,
+Sam Curran,Allrounder,Left hand Bat,Left arm Medium fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/304300/304324.jpg",Punjab Kings,,,,,,,,,,,,,,
+Rishi Dhawan,Allrounder,Right hand Bat,Right arm Medium fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/314900/314991.jpg",Punjab Kings,,,,,,,,,,,,,,
+Nathan Ellis,Bowler,Right hand Bat,Right arm Fast medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/327000/327014.4.jpg",Punjab Kings,,,,,,,,,,,,,,
+Gurnoor Brar,Bowler,Left hand Bat,Right arm Fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357500/357585.4.jpg",Punjab Kings,,,,,,,,,,,,,,
+Harpreet Brar,Bowler,Left hand Bat,Slow Left arm Orthodox,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357000/357021.1.png",Punjab Kings,,,,,,,,,,,,,,
+Harpreet Singh,Batter,Left hand Bat,Right arm Medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/314900/314906.jpg",Punjab Kings,,,,,,,,,,,,,,
+Vidwath Kaverappa,Bowler,Right hand Bat,Right arm Fast medium,https://wassets.hscicdn.com/static/images/player-jersey.svg,Punjab Kings,,,,,,,,,,,,,,
+Liam Livingstone,Batting Allrounder,Right hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356700/356798.1.png",Punjab Kings,,,,,,,,,,,,,,
+Mohit Rathee,Allrounder,Right hand Bat,Legbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357300/357393.1.png",Punjab Kings,,,,,,,,,,,,,,
+Prabhsimran Singh,Wicketkeeper Batter,Right hand Bat,DNB,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/352900/352932.4.jpg",Punjab Kings,,,,,,,,,,,,,,
+Kagiso Rabada,Bowler,Left hand Bat,Right arm Fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317900/317954.jpg",Punjab Kings,,,,,,,,,,,,,,
+Bhanuka Rajapaksa,Top order Batter,Left hand Bat,Right arm Medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/338100/338183.4.jpg",Punjab Kings,,,,,,,,,,,,,,
+M Shahrukh Khan,Batter,Right hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357500/357536.4.jpg",Punjab Kings,,,,,,,,,,,,,,
+Jitesh Sharma,Wicketkeeper Batter,Right hand Bat,DNB,https://wassets.hscicdn.com/static/images/player-jersey.svg,Punjab Kings,,,,,,,,,,,,,,
+Shivam Singh,Middle order Batter,Right hand Bat,Right arm Offbreak,https://wassets.hscicdn.com/static/images/player-jersey.svg,Punjab Kings,,,,,,,,,,,,,,
+Matthew Short,Top order Batter,Right hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/179400/179415.1.jpg",Punjab Kings,,,,,,,,,,,,,,
+Sikandar Raza,Batting Allrounder,Right hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/181300/181305.1.jpg",Punjab Kings,,,,,,,,,,,,,,
+Atharva Taide,Batting Allrounder,Left hand Bat,Slow Left arm Orthodox,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357000/357037.1.png",Punjab Kings,,,,,,,,,,,,,,
+Jonny Bairstow,Wicketkeeper Batter,Right hand Bat,Right arm Medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/304900/304906.jpg",Punjab Kings,,,,,,,,,,,,,,
+Raj Bawa,Allrounder,Left hand Bat,Right arm Medium fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/337400/337424.4.jpg",Punjab Kings,,,,,,,,,,,,,,
+Sanju Samson,Wicketkeeper Batter,Right hand Bat,DNB,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/318800/318843.jpg",Rajasthan Royals,,,,,,,,,,,,,,
+Abdul Basith,Allrounder,Right hand Bat,Right arm Offbreak,https://wassets.hscicdn.com/static/images/player-jersey.svg,Rajasthan Royals,,,,,,,,,,,,,,
+Murugan Ashwin,Bowler,Right hand Bat,Legbreak Googly,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/309000/309077.jpg",Rajasthan Royals,,,,,,,,,,,,,,
+Ravichandran Ashwin,Bowling Allrounder,Right hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/302300/302395.jpg",Rajasthan Royals,,,,,,,,,,,,,,
+KM Asif,Bowler,Right hand Bat,Right arm Medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356800/356800.1.png",Rajasthan Royals,,,,,,,,,,,,,,
+Trent Boult,Bowler,Right hand Bat,Left arm Fast medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/303600/303673.jpg",Rajasthan Royals,,,,,,,,,,,,,,
+Jos Buttler,Wicketkeeper Batter,Right hand Bat,DNB,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/303900/303969.jpg",Rajasthan Royals,,,,,,,,,,,,,,
+KC Cariappa,Bowler,Right hand Bat,Legbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356800/356801.1.png",Rajasthan Royals,,,,,,,,,,,,,,
+Yuzvendra Chahal,Bowler,Right hand Bat,Legbreak Googly,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/312100/312155.png",Rajasthan Royals,,,,,,,,,,,,,,
+Donovan Ferreira,Allrounder,Right hand Bat,DNB,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356800/356889.1.png",Rajasthan Royals,,,,,,,,,,,,,,
+Shimron Hetmyer,Top order Batter,Left hand Bat,DNB,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356800/356802.1.png",Rajasthan Royals,,,,,,,,,,,,,,
+Jason Holder,Bowling Allrounder,Right hand Bat,Right arm Medium fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/214700/214757.1.jpg",Rajasthan Royals,,,,,,,,,,,,,,
+Yashasvi Jaiswal,Opening Batter,Left hand Bat,Legbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356800/356803.1.png",Rajasthan Royals,,,,,,,,,,,,,,
+Dhruv Jurel,Wicketkeeper Batter,Right hand Bat,DNB,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/338100/338190.4.jpg",Rajasthan Royals,,,,,,,,,,,,,,
+Obed McCoy,Bowler,Left hand Bat,Left arm Fast medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/322000/322031.png",Rajasthan Royals,,,,,,,,,,,,,,
+Devdutt Padikkal,Top order Batter,Left hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/308600/308625.1.jpg",Rajasthan Royals,,,,,,,,,,,,,,
+Riyan Parag,Top order Batter,Right hand Bat,Legbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/271800/271898.jpg",Rajasthan Royals,,,,,,,,,,,,,,
+Kunal Singh Rathore,Wicketkeeper Batter,Left hand Bat,DNB,https://wassets.hscicdn.com/static/images/player-jersey.svg,Rajasthan Royals,,,,,,,,,,,,,,
+Joe Root,Top order Batter,Right hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/303900/303966.jpg",Rajasthan Royals,,,,,,,,,,,,,,
+Navdeep Saini,Bowler,Right hand Bat,Right arm Fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356800/356809.1.png",Rajasthan Royals,,,,,,,,,,,,,,
+Sandeep Sharma,Bowler,Right hand Bat,Right arm Medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/149100/149117.jpg",Rajasthan Royals,,,,,,,,,,,,,,
+Kuldeep Sen,Bowler,Right hand Bat,Right arm Fast,https://wassets.hscicdn.com/static/images/player-jersey.svg,Rajasthan Royals,,,,,,,,,,,,,,
+Akash Vasisht,Allrounder,Left hand Bat,Slow Left arm Orthodox,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/314900/314993.jpg",Rajasthan Royals,,,,,,,,,,,,,,
+Kuldip Yadav,Bowler,Left hand Bat,Left arm Fast medium,https://wassets.hscicdn.com/static/images/player-jersey.svg,Rajasthan Royals,,,,,,,,,,,,,,
+Adam Zampa,Bowler,Right hand Bat,Legbreak Googly,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/263500/263543.1.jpg",Rajasthan Royals,,,,,,,,,,,,,,
+Prasidh Krishna,Bowler,Right hand Bat,Right arm Fast medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356800/356808.1.png",Rajasthan Royals,,,,,,,,,,,,,,
+Faf du Plessis,Middle order Batter,Right hand Bat,Legbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317900/317961.jpg",Royal Challengers Bangalore,,,,,,,,,,,,,,
+Akash Deep,Bowling Allrounder,Right hand Bat,Right arm Fast medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356800/356814.1.png",Royal Challengers Bangalore,,,,,,,,,,,,,,
+Finn Allen,Top order Batter,Right hand Bat,DNB,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/271800/271806.jpg",Royal Challengers Bangalore,,,,,,,,,,,,,,
+Anuj Rawat,Wicketkeeper Batter,Left hand Bat,DNB,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357600/357621.7.jpg",Royal Challengers Bangalore,,,,,,,,,,,,,,
+Avinash Singh,Bowler,Right hand Bat,Right arm Fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357600/357627.4.jpg",Royal Challengers Bangalore,,,,,,,,,,,,,,
+Manoj Bhandage,Allrounder,Left hand Bat,Right arm Medium fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357600/357622.4.jpg",Royal Challengers Bangalore,,,,,,,,,,,,,,
+Michael Bracewell,Batting Allrounder,Left hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356800/356810.1.png",Royal Challengers Bangalore,,,,,,,,,,,,,,
+Wanindu Hasaranga,Allrounder,Right hand Bat,Legbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/294200/294296.jpg",Royal Challengers Bangalore,,,,,,,,,,,,,,
+Josh Hazlewood,Bowler,Left hand Bat,Right arm Fast medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/263500/263531.1.jpg",Royal Challengers Bangalore,,,,,,,,,,,,,,
+Kedar Jadhav,Batting Allrounder,Right hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/302500/302569.jpg",Royal Challengers Bangalore,,,,,,,,,,,,,,
+Dinesh Karthik,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/304100/304195.png",Royal Challengers Bangalore,,,,,,,,,,,,,,
+Siddarth Kaul,Bowler,Right hand Bat,Right arm Medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/309000/309092.png",Royal Challengers Bangalore,,,,,,,,,,,,,,
+Virat Kohli,Top order Batter,Right hand Bat,Right arm Medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/289000/289002.1.jpg",Royal Challengers Bangalore,,,,,,,,,,,,,,
+Mahipal Lomror,Allrounder,Left hand Bat,Slow Left arm Orthodox,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/315000/315015.jpg",Royal Challengers Bangalore,,,,,,,,,,,,,,
+Glenn Maxwell,Batting Allrounder,Right hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/263500/263539.1.jpg",Royal Challengers Bangalore,,,,,,,,,,,,,,
+Mohammed Siraj,Bowler,Right hand Bat,Right arm Fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/315600/315604.jpg",Royal Challengers Bangalore,,,,,,,,,,,,,,
+Wayne Parnell,Bowler,Left hand Bat,Left arm Medium fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/263700/263777.1.jpg",Royal Challengers Bangalore,,,,,,,,,,,,,,
+Harshal Patel,Bowler,Right hand Bat,Right arm Medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/309100/309102.png",Royal Challengers Bangalore,,,,,,,,,,,,,,
+Suyash Prabhudessai,Batting Allrounder,Right hand Bat,Right arm Medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357600/357630.4.jpg",Royal Challengers Bangalore,,,,,,,,,,,,,,
+Rajan Kumar,Bowler,Left hand Bat,Left arm Medium fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357600/357625.4.jpg",Royal Challengers Bangalore,,,,,,,,,,,,,,
+Shahbaz Ahmed,Allrounder,Left hand Bat,Slow Left arm Orthodox,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/308600/308627.1.jpg",Royal Challengers Bangalore,,,,,,,,,,,,,,
+Himanshu Sharma,Bowler,Right hand Bat,Legbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357600/357624.4.jpg",Royal Challengers Bangalore,,,,,,,,,,,,,,
+Karn Sharma,Bowler,Left hand Bat,Legbreak Googly,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/309100/309104.png",Royal Challengers Bangalore,,,,,,,,,,,,,,
+Sonu Yadav,Allrounder,Right hand Bat,Right arm Medium fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357600/357623.4.jpg",Royal Challengers Bangalore,,,,,,,,,,,,,,
+Vijaykumar Vyshak,Bowler,Right hand Bat,Right arm Medium,https://wassets.hscicdn.com/static/images/player-jersey.svg,Royal Challengers Bangalore,,,,,,,,,,,,,,
+Will Jacks,Batter,Right hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/296200/296209.1.jpg",Royal Challengers Bangalore,,,,,,,,,,,,,,
+Rajat Patidar,Top order Batter,Right hand Bat,Right arm Offbreak,https://wassets.hscicdn.com/static/images/player-jersey.svg,Royal Challengers Bangalore,,,,,,,,,,,,,,
+Reece Topley,Bowler,Right hand Bat,Left arm Fast medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356800/356811.1.png",Royal Challengers Bangalore,,,,,,,,,,,,,,
+David Willey,Bowling Allrounder,Left hand Bat,Left arm Fast medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/305000/305028.jpg",Royal Challengers Bangalore,,,,,,,,,,,,,,
+Aiden Markram,Opening Batter,Right hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317900/317970.jpg",Sunrisers Hyderabad,,,,,,,,,,,,,,
+Abdul Samad,Batter,Right hand Bat,Legbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/295300/295304.jpg",Sunrisers Hyderabad,,,,,,,,,,,,,,
+Abhishek Sharma,Allrounder,Left hand Bat,Slow Left arm Orthodox,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356800/356824.1.png",Sunrisers Hyderabad,,,,,,,,,,,,,,
+Mayank Agarwal,Batter,Right hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/302300/302377.jpg",Sunrisers Hyderabad,,,,,,,,,,,,,,
+Anmolpreet Singh,Batter,Right hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356800/356823.1.png",Sunrisers Hyderabad,,,,,,,,,,,,,,
+Harry Brook,Batter,Right hand Bat,Right arm Medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/271800/271830.jpg",Sunrisers Hyderabad,,,,,,,,,,,,,,
+Mayank Dagar,Bowler,Right hand Bat,Slow Left arm Orthodox,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356800/356822.1.png",Sunrisers Hyderabad,,,,,,,,,,,,,,
+Fazalhaq Farooqi,Bowler,Right hand Bat,Left arm Fast medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/306700/306755.3.jpg",Sunrisers Hyderabad,,,,,,,,,,,,,,
+Akeal Hosein,Bowler,Left hand Bat,Slow Left arm Orthodox,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/326100/326139.4.jpg",Sunrisers Hyderabad,,,,,,,,,,,,,,
+Marco Jansen,Bowling Allrounder,Right hand Bat,Left arm Medium fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/335000/335050.4.jpg",Sunrisers Hyderabad,,,,,,,,,,,,,,
+Kartik Tyagi,Bowler,Right hand Bat,Right arm Fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/299800/299848.1.jpg",Sunrisers Hyderabad,,,,,,,,,,,,,,
+Heinrich Klaasen,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/317900/317958.jpg",Sunrisers Hyderabad,,,,,,,,,,,,,,
+Bhuvneshwar Kumar,Bowler,Right hand Bat,Right arm Medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/304100/304194.png",Sunrisers Hyderabad,,,,,,,,,,,,,,
+Mayank Markande,Bowler,Right hand Bat,Legbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356800/356819.1.png",Sunrisers Hyderabad,,,,,,,,,,,,,,
+T Natarajan,Bowler,Left hand Bat,Left arm Medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/315600/315602.jpg",Sunrisers Hyderabad,,,,,,,,,,,,,,
+Nitish Kumar Reddy,Batting Allrounder,Right hand Bat,Right arm Medium fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/314800/314899.png",Sunrisers Hyderabad,,,,,,,,,,,,,,
+Glenn Phillips,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/303500/303599.jpg",Sunrisers Hyderabad,,,,,,,,,,,,,,
+Adil Rashid,Bowler,Right hand Bat,Legbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/289600/289662.1.jpg",Sunrisers Hyderabad,,,,,,,,,,,,,,
+Sanvir Singh,Allrounder,Right hand Bat,Right arm Medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/357500/357584.4.jpg",Sunrisers Hyderabad,,,,,,,,,,,,,,
+Rahul Tripathi,Top order Batter,Right hand Bat,Right arm Medium,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356800/356821.1.png",Sunrisers Hyderabad,,,,,,,,,,,,,,
+Umran Malik,Bowler,Right hand Bat,Right arm Fast,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/356800/356816.1.png",Sunrisers Hyderabad,,,,,,,,,,,,,,
+Vivrant Sharma,Allrounder,Left hand Bat,Legbreak Googly,https://wassets.hscicdn.com/static/images/player-jersey.svg,Sunrisers Hyderabad,,,,,,,,,,,,,,
+Samarth Vyas,Allrounder,Right hand Bat,Legbreak Googly,https://wassets.hscicdn.com/static/images/player-jersey.svg,Sunrisers Hyderabad,,,,,,,,,,,,,,
+Upendra Yadav,Wicketkeeper Batter,Right hand Bat,Right arm Offbreak,https://wassets.hscicdn.com/static/images/player-jersey.svg,Sunrisers Hyderabad,,,,,,,,,,,,,,
+Washington Sundar,Bowling Allrounder,Left hand Bat,Right arm Offbreak,"https://img1.hscicdn.com/image/upload/f_auto,t_h_100_2x/lsci/db/PICTURES/CMS/302500/302584.jpg",Sunrisers Hyderabad,,,,,,,,,,,,,,
